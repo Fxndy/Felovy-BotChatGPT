@@ -19,7 +19,7 @@ const store = makeInMemoryStore({ logger: pino().child({ level: "silent", stream
 const { Low, JSONFile } = low
 
 global.db = new Low(
-  new JSONFile(`hutao.json`)
+  new JSONFile(global.fileNameJson)
 )
 
 loadDatabase()

@@ -1,13 +1,13 @@
 {
   "name": "felovy-botchatgpt",
   "version": "1.0.0",
-  "description": "",
+  "description": "ngesex",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "npm i --no-bin-links"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fxndy",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
